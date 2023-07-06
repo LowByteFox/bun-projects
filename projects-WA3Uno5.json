@@ -1,0 +1,106 @@
+[{
+    "name": "Buchta",
+    "description": "Bun-First integrable build step for frontend.",
+    "img": "./buchta-hGtuO4F.webp",
+    "url": "https://buchtajs.com/"
+}, {
+    "name": "Eylsia",
+    "description": "Fast, and friendly Bun web framework.",
+    "img": "./elysia-N0u346l.webp",
+    "url": "https://elysiajs.com/"
+}, {
+    "name": "Hono",
+    "description": "Ultrafast web framework for the Edges.",
+    "img": "./hono-aPVcFnO.webp",
+    "url": "https://hono.dev/"
+}, {
+    "name": "Bun Bakery",
+    "description": "Bun-Bakery is a web framework for Bun. It uses a file based router in style like svelte-kit. No need to define routes during runtime.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/Kapsonfire-DE/bun-bakery/"
+}, {
+    "name": "Stric",
+    "description": "Fast and lightweight web framework for Bun.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/bunsvr/"
+}, {
+    "name": "bun-utilities",
+    "description": "This package adds some missing utilities using napi until they are implemented natively.",
+    "img": "./npm-iBMc00p.webp",
+    "url": "https://www.npmjs.com/package/bun-utilities/"
+}, {
+    "name": "bun-promptx",
+    "description": "Terminal prompt library for the Bun runtime.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/wobsoriano/bun-promptx/"
+}, {
+    "name": "blipgloss",
+    "description": "Style definitions for nice terminal layouts.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/wobsoriano/blipgloss/"
+}, {
+    "name": "svelte-adapter-bun",
+    "description": "A SvelteKit adapter for Bun.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/gornostay25/svelte-adapter-bun/"
+}, {
+    "name": "bunray",
+    "description": "Simple bun bindings for raylib.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/theoparis/bunray/"
+}, {
+    "name": "appwrite-funcover",
+    "description": "Cover your Appwrite functions with a dedicated endpoint.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/BoolCode/appwrite-funcover/"
+}, {
+    "name": "bux (Own Nuxt Like Framework)",
+    "description": "A source code of own nuxt-like framework made using bun from blog.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/Fire-The-Fox/Own-Nuxt-Like-Framework/"
+}, {
+    "name": "spotlify",
+    "description": "Spotify library in typescript without using the Spotify Web API.",
+    "img": "./npm-iBMc00p.webp",
+    "url": "https://www.npmjs.com/package/spotifly/"
+}, {
+    "name": "garph",
+    "description": "Fullstack GraphQL Framework for TypeScript.",
+    "img": "./garph-nPLxwOi.webp",
+    "url": "https://garph.dev/"
+}, {
+    "name": "bunview",
+    "description": "Feature-complete webview library for Bun.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/theseyan/bunview/"
+}, {
+    "name": "bun.nvim",
+    "description": "NeoVim plugin for Bun JavaScript runtime.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/Fire-The-Fox/bun.nvim/"
+}, {
+    "name": "bun-auto-import",
+    "description": "Auto import support for Bun, powered by Unimport.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/zihan-ch/bun-auto-import/"
+}, {
+    "name": "vercel-bun",
+    "description": "🥟 Bun runtime for ▲ Vercel Serverless Functions.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/peterbartha/vercel-bun/"
+}, {
+    "name": "bkg",
+    "description": "Package Bun apps into a single executable.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/theseyan/bkg/"
+}, {
+    "name": "bun-repl",
+    "description": "Experimental unofficial REPL for Bun.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/jhmaster2000/bun-repl/"
+}, {
+    "name": "awesome-bun",
+    "description": "⚡️ A curated list of awesome things related to Bun.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/oven-sh/awesome-bun/"
+}]
