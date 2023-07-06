@@ -13351,7 +13351,7 @@ var sfc3 = {
       return new Promise((resolve2) => setTimeout(resolve2, ms));
     }
     onMounted(async () => {
-      const req = await fetch("./projects-dw2MvPD.json");
+      const req = await fetch("./projects-WA3Uno5.json");
       const json = await req.json();
       for (const item of json) {
         data.push(item);
@@ -13386,7 +13386,7 @@ var stylevvmhuG = document.createElement("style");
 stylevvmhuG.innerHTML = `
 @font-face {
         font-family: "IBM Plex Sans";
-        src: url("./IBMPlexSans-Regular-fSt6XZT.ttf");
+        src: url("./IBMPlexSans-Regular-veEHcMb.ttf");
 }
 body {
         margin: 0;
