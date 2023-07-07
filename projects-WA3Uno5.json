@@ -108,4 +108,9 @@
     "description": "Turn scripts into workflows and UIs in minutes",
     "img": "./windmill.webp",
     "url": "https://www.windmill.dev/"
+}, {
+    "name": "great.db",
+    "description": "⚡️ A powerful, human-friendly database library for JavaScript using SQLite.",
+    "img": "./github-Oo5Bysm.webp",
+    "url": "https://github.com/tr1ckydev/great.db/"
 }]
