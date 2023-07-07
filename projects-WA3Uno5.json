@@ -21,8 +21,8 @@
 }, {
     "name": "Stric",
     "description": "Fast and lightweight web framework for Bun.",
-    "img": "./github-Oo5Bysm.webp",
-    "url": "https://github.com/bunsvr/"
+    "img": "./stric.webp",
+    "url": "https://stricjs.gitbook.io/docs/"
 }, {
     "name": "bun-utilities",
     "description": "This package adds some missing utilities using napi until they are implemented natively.",
