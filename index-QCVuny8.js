@@ -13391,8 +13391,8 @@ stylevvmhuG.innerHTML = `
 body {
         margin: 0;
         padding: 0;
-        padding-left: 15px;
-        padding-right: 15px;
+        padding-left: 25px;
+        padding-right: 25px;
         background-color: var(--surface-ground);
 }
 * {
