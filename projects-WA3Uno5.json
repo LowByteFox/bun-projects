@@ -103,4 +103,9 @@
     "description": "⚡️ A curated list of awesome things related to Bun.",
     "img": "./github-Oo5Bysm.webp",
     "url": "https://github.com/oven-sh/awesome-bun/"
+}, {
+    "name": "Windmill",
+    "description": "Turn scripts into workflows and UIs in minutes",
+    "img": "./windmill.webp",
+    "url": "https://www.windmill.dev/"
 }]
